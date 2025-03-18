@@ -1,0 +1,9 @@
+```
+# requirements.txt
+python-telegram-bot
+beautifulsoup4
+requests
+APScheduler
+Flask
+
+```
