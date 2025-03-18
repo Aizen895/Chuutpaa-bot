@@ -1,4 +1,5 @@
  # bot.py (Main Bot Logic)
+import .utils
 import os
 import logging
 from telegram import Update
